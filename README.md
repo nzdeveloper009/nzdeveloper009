@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nzdeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/nzdeveloper?logo=twitter&style=for-the-badge" alt="nzdeveloper" /></a> </p>
 
-- 🔭 I’m currently working on [JetPack Compose Tutorial][[https://github.com/nzdeveloper009/jetpack_compose_tutorial](https://github.com/nzdeveloper009/jetpack_compose_tutorial)]
+- 🔭 I’m currently working on [JetPack Compose Tutorial](https://github.com/nzdeveloper009/jetpack_compose_tutorial)
 
 - 🌱 I’m currently learning **Kotlin**
 

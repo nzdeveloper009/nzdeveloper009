@@ -7,20 +7,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nzdeveloper009&label=Profile%20views&color=0e75b6&style=flat" alt="nzdeveloper009" /> </p>
 
 
-- 🔭 I’m currently working on [JetPack Compose Tutorial](https://github.com/nzdeveloper009/jetpack_compose_tutorial)
 
-- 🌱 I’m worked in **Java/Kotlin**
-
+## 💁‍♂️  About me
+- 🏫 I am an `Android Developer` at CrazySolution
+- 🧑‍💻 I am using `Kotlin` as primary language
+- 🧑‍🎓 I’m currently learning: `Jetpack Compose`.
+- 🤓 Always `learn new things`
 - 👯 I’m looking to collaborate on **Android App Development**
-
-- 👨‍💻 All of my projects are available at [https://syednokhaizalhassan.com/](https://syednokhaizalhassan.com/)
-
-- 📝 I regularly write articles on [https://syednokhaizalhassan.com/my-blog/](https://syednokhaizalhassan.com/my-blog/)
-
 - 💬 Ask me about **Kotlin, Android**
-
 - 📫 How to reach me **nzdeveloper009@gmail.com**
-
 - 📄 Know about my experiences [https://syednokhaizalhassan.com/service/](https://syednokhaizalhassan.com/service/)
 
 <h3 align="left">Connect with me:</h3>

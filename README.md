@@ -11,7 +11,7 @@
 ## 💁‍♂️  About me
 - 🏫 I am an `Android Developer` at CrazySolution
 - 🧑‍💻 I am using `Kotlin` as primary language
-- 🧑‍🎓 I’m currently learning: `Kotlin Multiplatform Mobile - KMM`.
+- 🧑‍🎓 I’m currently learning: `Kotlin Multiplatform Mobile - KMM\Compose Multiplatform Mobile - CMM`.
 - 🤓 Always `learn new things`
 - 👯 I’m looking to collaborate on **Android App Development**
 - 💬 Ask me about **Kotlin, Android**

@@ -9,9 +9,9 @@
 
 
 ## 💁‍♂️  About me
-- 🏫 I am an `Android Developer` at CrazySolution
+- 🏫 I am an `Technical Team Lead - Android Developer` at **Raccoon Tech**
 - 🧑‍💻 I am using `Kotlin` as primary language
-- 🧑‍🎓 I’m currently learning: `Kotlin Multiplatform Mobile - KMM\Compose Multiplatform Mobile - CMM`.
+- 🧑‍🎓 I’m currently learning: `Kotlin Multiplatform\Compose Multiplatform`.
 - 🤓 Always `learn new things`
 - 👯 I’m looking to collaborate on **Android App Development**
 - 💬 Ask me about **Kotlin, Android**

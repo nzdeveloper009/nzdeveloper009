@@ -9,7 +9,7 @@
 
 
 ## 💁‍♂️  About me
-- 🏫 I am an `Technical Team Lead - Android Developer` at **Raccoon Tech**
+- 🏫 I am an `Sr. Android Developer` at **Galixo AI**
 - 🧑‍💻 I am using `Kotlin` as primary language
 - 🧑‍🎓 I’m currently learning: `Kotlin Multiplatform\Compose Multiplatform`.
 - 🤓 Always `learn new things`
